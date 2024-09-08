@@ -16,11 +16,10 @@ This project uses Azure services to build a data pipeline for analyzing Tokyo Ol
 ## Dataset used 
 This project utilizes the Tokyo Olympics dataset from [hania222/tokyo-olympics](https://github.com/hania222/tokyo-olympics/tree/main). The dataset encompasses detailed information on teams, athletes, medal counts, entries by gender, and coaches, offering a comprehensive view of the performances and dynamics of the 2021 Olympic Games.
 
-More Informations:
 original Dataset: https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo 
 
 ## Scripts for the project
-1.![Extract and Load](Images/pipline.PNG.png)
+1.[Extract and Load](Images/pipline.PNG.png)
 2.[Transform](https://github.com/hania222/tokyo-olympics/blob/main/Notebook%202024-09-08%2015_39_12.ipynb)
  
 
